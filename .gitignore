@@ -1,0 +1,10 @@
+__pycache__/
+.pytest_cache/
+*.mo
+*.pyc
+.coverage
+nglogic.log
+.idea/
+/staticfiles/
+db.sqlite3
+static/

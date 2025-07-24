@@ -1,0 +1,11 @@
+black
+Django
+djangorestframework
+flake8
+gunicorn
+mypy
+pytest
+pytest-cov
+pytest-django
+pytest-env
+python-dotenv
